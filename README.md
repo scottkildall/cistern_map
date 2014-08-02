@@ -11,9 +11,7 @@ Part of the WaterWorks project (waterworks.io)
 
 (1) Right now cisternjson.js returns a JSON object of a number of cisterns. Right now, this is a literal, just added there. This should be a non-blocking file-loading system.
 
-(2) The left panel isn't set to the correct width & height, resulting in some obvious formatting issues.
-
-(3) The last cistern marker is set by default 
+(2) The last cistern marker is set by default 
 
 **Future Improvements:**
 
@@ -25,13 +23,17 @@ Part of the WaterWorks project (waterworks.io)
 
 (4) Actual html on left panel instead of sample text
 
-(5) A splash screen for startup
+(5) Splash screen on start up to load text from .html like the panel does
+
 
 **Local development:**
 
 1. Launch Terminal, cd into the cistern_map directory
 2. python -m SimpleHTTPServer
 3. In Chrome, go to: http://localhost:8000/
+
+**Notes:**
+(1)	water-works.css contains .slide-out-div -- here, we can specify a fixed width and height for the slider
 
 by Scott Kildall
 @kildall
