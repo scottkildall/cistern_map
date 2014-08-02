@@ -28,3 +28,7 @@ $(function(){
 $(function(){
     $("#leftPanel").load("left-panel.html");
 });
+
+$(function(){
+		$("#splashScreen").load("splash-screen.html");
+});

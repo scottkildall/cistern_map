@@ -1,6 +1,3 @@
-
-
-
 // Modal Button JS
 $('.button').click(function () {
     $('#modal').css('display', 'block').fadeIn();
