@@ -13,6 +13,8 @@ Part of the WaterWorks project (waterworks.io)
 
 (2) The last cistern marker is set by default 
 
+(3) Lots of formatting and positioning issues
+
 **Future Improvements:**
 
 (1) Title text
@@ -22,8 +24,6 @@ Part of the WaterWorks project (waterworks.io)
 (3) Link back to WaterWorks project
 
 (4) Actual html on left panel instead of sample text
-
-(5) Splash screen on start up to load text from .html like the panel does
 
 
 **Local development:**
